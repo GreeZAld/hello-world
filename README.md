@@ -1,2 +1,3 @@
 # hello-world
-test
+
+Some information about myself.
